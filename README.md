@@ -1,5 +1,5 @@
-# some none prebuild python packages  
-python3.11 packages for windows on arm 
+# some none prebuild python packages fo winarm64  
+python3.11 packages for windows(arm64). Attention that these packages are built **unofficially** through pip auto building, and they just work fine in my situation. That means i am not able to fix bugs. 
 ## inlcude
 + pandas
 + scikit-learn
